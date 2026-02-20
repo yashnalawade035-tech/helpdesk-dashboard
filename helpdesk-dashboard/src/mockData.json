@@ -1,0 +1,74 @@
+[
+    {
+        "id": "2401",
+        "subject": "Login page not loading on clean cache",
+        "requester": "Alice Johnson",
+        "avatar": "https://i.pravatar.cc/150?u=alice",
+        "priority": "High",
+        "status": "Open",
+        "date": "Oct 24, 2023"
+    },
+    {
+        "id": "2398",
+        "subject": "Reset password link expired?",
+        "requester": "Bob Smith",
+        "avatar": "https://i.pravatar.cc/150?u=bob",
+        "priority": "Medium",
+        "status": "In Progress",
+        "date": "Oct 24, 2023"
+    },
+    {
+        "id": "2392",
+        "subject": "Charged twice for subscription",
+        "requester": "Charlie Brown",
+        "avatar": "https://i.pravatar.cc/150?u=charlie",
+        "priority": "Low",
+        "status": "Resolved",
+        "date": "Oct 23, 2023"
+    },
+    {
+        "id": "2350",
+        "subject": "Dark mode when?",
+        "requester": "Diana Ross",
+        "avatar": "https://i.pravatar.cc/150?u=diana",
+        "priority": "Low",
+        "status": "Open",
+        "date": "Oct 22, 2023"
+    },
+    {
+        "id": "2345",
+        "subject": "API 500 errors on POST /users",
+        "requester": "Evan Wright",
+        "avatar": "https://i.pravatar.cc/150?u=evan",
+        "priority": "High",
+        "status": "In Progress",
+        "date": "Oct 21, 2023"
+    },
+    {
+        "id": "2341",
+        "subject": "Account suspension appeal",
+        "requester": "Fiona Apple",
+        "avatar": "https://i.pravatar.cc/150?u=fiona",
+        "priority": "Medium",
+        "status": "Resolved",
+        "date": "Oct 20, 2023"
+    },
+    {
+        "id": "2330",
+        "subject": "Slack integration broken",
+        "requester": "George Lucas",
+        "avatar": "https://i.pravatar.cc/150?u=george",
+        "priority": "High",
+        "status": "Open",
+        "date": "Oct 19, 2023"
+    },
+    {
+        "id": "2322",
+        "subject": "Export to CSV...",
+        "requester": "Hannah Montana",
+        "avatar": "https://i.pravatar.cc/150?u=hannah",
+        "priority": "Low",
+        "status": "Resolved",
+        "date": "Oct 18, 2023"
+    }
+]
